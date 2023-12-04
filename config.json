@@ -1,0 +1,9 @@
+{
+  "optimizer":"adam",
+  "loss":"sparse_categorical_crossentropy",
+  "metrics":["accuracy"],
+  "epochs":"1",
+  "model":"mnist_cnn_model.h5",
+  "path":"/content/model_weights.h5"
+  
+}
